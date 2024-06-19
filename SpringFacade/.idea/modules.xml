@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringFacade.iml" filepath="$PROJECT_DIR$/.idea/SpringFacade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPatters/designPatters.iml" filepath="$PROJECT_DIR$/designPatters/designPatters.iml" />
+    </modules>
+  </component>
+</project>
